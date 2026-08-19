@@ -63,9 +63,4 @@ If you play local videos in the browser, open this extension details page in `ch
   - Set your endpoint in popup settings
   - Add API key if your instance requires it
 
-## Next recommended upgrades
 
-- Replace speech recognition with a robust STT backend
-- Add subtitle smoothing and confidence filtering
-- Add per-site overlay sizing/position presets
-- Add automatic language detection
