@@ -6,7 +6,7 @@ A Chrome extension prototype that:
 - Translates the transcript to English
 - Draws the translated subtitle as an overlay over the playing video
 
-## Important reality check
+## Important Note
 
 Chrome does not reliably allow the built-in Web Speech API to transcribe tab-captured audio streams. This is the reason you were seeing the status message `Speech recognition error: not-allowed`.
 
